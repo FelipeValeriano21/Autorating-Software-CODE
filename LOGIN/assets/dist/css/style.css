@@ -1,0 +1,18 @@
+    
+    body{
+
+        background-color: rgb(0, 87, 127);
+    }
+
+    .btn{
+        background-color: rgb(0, 87, 127); 
+    }
+
+    .user{
+        color: black;
+    }
+
+    .btn:hover{
+        background-color: rgb(0, 147, 215); 
+    }
+
